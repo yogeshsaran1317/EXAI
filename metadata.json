@@ -1,0 +1,11 @@
+{
+  "name": "ExpenseOS AI",
+  "description": "The Intelligent Personal Finance Operating System – AI-powered financial intelligence, expense tracking, receipt scanner, subscription management, budget forecasting, and analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
